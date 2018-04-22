@@ -1,0 +1,3 @@
+This is a Python port knocker which can help to open the ports from outside the machine.
+
+**This programs requires scapy module and please install it before running this program**
